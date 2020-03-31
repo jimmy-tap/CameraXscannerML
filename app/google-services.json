@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2213731580",
+    "firebase_url": "https://cameraxscannerml.firebaseio.com",
+    "project_id": "cameraxscannerml",
+    "storage_bucket": "cameraxscannerml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2213731580:android:00fc4773c37001d6790b79",
+        "android_client_info": {
+          "package_name": "company.tap.cameraxscannerml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2213731580-2rivifbllq0vgj9qacnsq90uruuasds7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyo7123M2sRfN48Ef3aX4ac7p9VxJk9Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2213731580-2rivifbllq0vgj9qacnsq90uruuasds7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
